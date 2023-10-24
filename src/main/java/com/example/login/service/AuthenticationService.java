@@ -1,6 +1,6 @@
 package com.example.login.service;
 
-import com.example.enums.Role;
+import com.example.login.enums.Role;
 import com.example.login.dao.JwtAuthenticationResponse;
 import com.example.login.dao.SignUpRequest;
 import com.example.login.dao.SigninRequest;

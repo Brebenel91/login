@@ -1,6 +1,6 @@
 package com.example.login.model;
 
-import com.example.enums.Role;
+import com.example.login.enums.Role;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import jakarta.persistence.*;
